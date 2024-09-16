@@ -1,0 +1,2 @@
+# computer
+js pluging khan
